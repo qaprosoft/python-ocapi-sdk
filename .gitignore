@@ -1,0 +1,4 @@
+*.pyc
+.pycapi
+__pycache__
+python_ocapi_sdk.egg-info/
